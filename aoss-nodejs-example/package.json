@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@aws-sdk/client-opensearchserverless": "^3.502.0",
+    "@opensearch-project/opensearch": "^2.5.0",
+    "aws-sdk": "^2.1546.0",
+    "aws4": "^1.12.0"
+  }
+}

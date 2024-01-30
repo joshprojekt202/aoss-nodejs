@@ -1,0 +1,26 @@
+# Dependency directories
+**/node_modules/
+
+# Optional npm cache directory
+**/.npm
+
+# Optional eslint cache
+**/.eslintcache
+
+# MacOS folder attributes
+.DS_Store
+
+# Windows folder attribute file
+Thumbs.db
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+
+# Zip files
+*.zip
+
+# AWS files
+aws/
